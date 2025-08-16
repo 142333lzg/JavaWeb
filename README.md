@@ -1,1 +1,4 @@
-【全网首发AI+JavaWeb开发入门，Tlias教学管理系统项目实战全套视频教程，从需求分析、设计、前后端开发、测试、程序优化到项目部署一套搞定】 https://www.bilibili.com/video/BV1yGydYEE3H/?p=26&share_source=copy_web&vd_source=0630fd58bfd680ab87d77e7efc7dcb40
+b站地址：
+https://www.bilibili.com/video/BV1yGydYEE3H/?share_source=copy_web&vd_source=0630fd58bfd680ab87d77e7efc7dcb40
+文档地址：
+https://heuqqdmbyk.feishu.cn/wiki/QPxOw66KlikKhKk1TOlcqxHXnDd
