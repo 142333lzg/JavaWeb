@@ -58,6 +58,12 @@ mvn spring-boot:run
 3. **mybatis01**: 掌握MyBatis ORM框架
 4. **spring-boot-web-01**: 学习Spring Boot Web开发
 
+## 学习资源
+
+- **B站视频教程**: https://www.bilibili.com/video/BV1yGydYEE3H/?share_source=copy_web&vd_source=0630fd58bfd680ab87d77e7efc7dcb40
+- **文档地址**: https://heuqqdmbyk.feishu.cn/wiki/QPxOw66KlikKhKk1TOlcqxHXnDd
+- **参考源码**: https://github.com/Wheat-s/AI-JavaWeb-Dev
+
 ## 作者
 
 zegengli
